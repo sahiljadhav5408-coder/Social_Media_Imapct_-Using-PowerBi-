@@ -3,13 +3,13 @@ Social Media Impact Dashboard built using Power BI to analyze the relationship b
 # 📊 Social Media Impact Dashboard
 
 ### 🏠 Cover Page
-![Social Media Impact Cover Page](CoverPage.png)
+![Social Media Impact Cover Page](./images/CoverPage.png)
 
 ### 📈 Dashboard Overview
-![Social Media Impact Dashboard](DashBoard.png)
+![Social Media Impact Dashboard](./images/DashBoard.png)
 
 ### 💡 Insights & Recommendations
-![Social Media Impact Insights and Recommendations](Insight.png)
+![Social Media Impact Insights and Recommendations](./images/Insight.png)
 
 ## 🚀 Live Power BI Dashboard
 
