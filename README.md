@@ -2,7 +2,16 @@
 Social Media Impact Dashboard built using Power BI to analyze the relationship between social media usage, sleep duration, stress levels, and academic performance. Features interactive dashboards, KPI cards, slicers, and data visualizations to uncover trends and provide actionable insights and recommendations for student well-being.
 # 📊 Social Media Impact – Power BI Dashboard
 1) COVER PAGE :
+   
    ![CoverPage](CoverPage.png)
+   
+2) DASHBOARD :
+
+   ![DashBoard](DashBoard.png)
+
+3) INSIGHT & RECOMMANDATION :
+
+   ![Insight](Insight.png)
 
 ## 🚀 Live Power BI Dashboard
 
